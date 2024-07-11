@@ -21,7 +21,7 @@ const Footer = () => {
                 
                 <img src="/MyPic.jpeg" alt="my image"  className='rounded-[50%] lg:w-[100px] lg:h-[100px] w-[60px] h-[60px] object-cover' />
                 <p className="lg:text-6xl text-2xl ">
-                Let`&apos;`s <span className="text-[#4ebb9b]">Work </span>
+                Let&apos;s <span className="text-[#4ebb9b]">Work </span>
                 </p>
             </div>
             <p className='lg:text-6xl text-2xl mt-0'>together</p>
